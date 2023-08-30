@@ -4,7 +4,7 @@ title: ""
 ---
 
 # Published Works
-“Bounded Rationality and Public Administration.” In The Oxford Research Encyclopedia of Politics. Oxford: Oxford University Press. (with JoBeth Shafran and Bryan Jones)
+<a href="https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1460?rskey=6W9AMV&result=18#:~:text=One%20of%20the%20main%20features,must%20be%20delegated%20to%20subunits.">"Bounded Rationality and Public Administration.”</a> In The Oxford Research Encyclopedia of Politics. Oxford: Oxford University Press. (with JoBeth Shafran and Bryan Jones)
 
 # Working Papers
 
