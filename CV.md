@@ -4,7 +4,7 @@ title: "CV"
 ---
 
 
-You can view my CV (updated August 2023) [here](assets/Dye_CV_9_8_2023.pdf).
+You can view my CV [here](assets/Dye_CV_8_21_2024.pdf).
 
 
 

@@ -7,7 +7,7 @@ title: ""
 
 #### Instructor
 
-American Foreign Policy (Summer 2023)
+American Foreign Policy (Summer 2023, Summer 2024)
 
 #### Co-Instructor
 

@@ -5,7 +5,8 @@ title: ""
 
 
 <img style="float: right; border: 2px solid  black;" src="assets/me.jpg">
-Hello! I am a PhD candidate in the Department of Government at <a href="https://liberalarts.utexas.edu/government/">The University of Texas at Austin</a>. I study regulatory policy-making, agenda setting, information processing, and bureaucratic politics. I am also associated with the <a href="https://www.comparativeagendas.net/us">Policy Agendas Project (PAP)</a>, where I served as the Director of Undergraduate Research for 3 years. <br>
+Hello! I am a Postdoctoral Fellow in the Department Politcial Sciecne and Geography at <a href="https://colfa.utsa.edu/polisci-geography/">The University of Texas San Antonio</a>. I use natural language processing methods to study regulatory policy-making, agenda setting, information processing, and bureaucratic politics. I am currently the 2024-2025 Oversight Fellow at the <a href="https://www.levin-center.org/">Levin Center</a>. In addition, I am the inagural postdoctoral fellow at the <a href="https://colfa.utsa.edu/political-opinion/">Center for Public Opinion Research (COPOR)</a>. I received my PhD from the Department of Government at <a href="https://liberalarts.utexas.edu/government/">The University of Texas at Austin</a>.
+<br>
 <br>
 
-You can view my CV (updated August 2023) [here](assets/Dye_CV_9_8_2023.pdf).
+You can view my CV [here](assets/Dye_CV_8_21_2024.pdf).
