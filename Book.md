@@ -1,0 +1,14 @@
+---
+layout: page
+title: ""
+---
+
+# Governing Without Laws: Oversight in the Age of Gridlock
+
+The modern world is characterized by constant change, as new technologies continuously reshape society, private actors develop innovative ways to leverage these technological advances, and public opinion regularly identifies emerging problems within our social systems. This dynamic environment creates a pressing need for governments to continually develop new policy innovations and implement adaptive policies that can respond effectively to these evolving constraints. Yet, the capacity for Congress to adapt policy to dynamic problems through legislation is at an all-time low. Rising gridlock has prevented Congress from passing major legislation, leaving traditional lawmaking unable to address emerging challenges. How can Congress maintain democratic control over how government solves problems when traditional lawmaking has become paralyzed?
+
+*Governing Without Laws* offers a new theory for how Congress governs in the face of gridlock. I argue that committees have adapted by using proactive oversight as an alternative venue for policy-making. Rather than simply auditing past bureaucratic decisions, committees strategically deploy oversight to influence how government adapts to emerging problems. This policy-oriented oversight affects both the set of agencies incorporated into future legislation as well as the set of agencies that expand their existing regulatory authority into new issues. 
+
+Using a wide range of novel data including machine coded proactive oversight hearings, agency witness testimony, committee legislative effectiveness scores, and measures of regulatory expansion, I demonstrate the causes and consequences of proactive oversight. The empirical analysis demonstrates that committees systematically turn to proactive oversight during legislative gridlock, favoring ideologically aligned agencies and focusing primarily on new and emerging problems. These strategic choices have significant downstream consequences, predicting both which agencies will be incorporated into future legislation and which will expand their regulatory authority to address emerging challenges. I demonstrate how committee-agency interactions during proactive oversight hearings shape both immediate policy responses and long-term institutional arrangements through three case studies examining drinking water regulation, cryptocurrency regulation, and the development of legislation addressing prescription drugs. The findings reveal how committees use strategic oversight to maintain policy influence in the face of gridlock. 
+
+The project has been supported by a year-long fellowship from the <a href="https://www.levin-center.org/">Levin Center</a>.
