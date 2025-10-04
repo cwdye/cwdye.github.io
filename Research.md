@@ -4,15 +4,13 @@ title: ""
 ---
 
 # Published Works
+Gervais, Bryan, Connor Dye, Gabriel Acevedo, Christopher Ellison, Margaret Kelly. “Do Authoritarians Support Political Violence?" PS: Political Science & Politics. 
+
 <a href="https://journals.sagepub.com/doi/full/10.1177/1532673X241309627"> Gervais, Bryan, Connor Dye, and Amebr Chin. 2025. "Incivility or Invalidity? Evaluating Perspective API Scores as a Measure of Political Incivility.”</a> American Politics Research 53(3): 266-274.
 
 <a href="https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1460?rskey=6W9AMV&result=18#:~:text=One%20of%20the%20main%20features,must%20be%20delegated%20to%20subunits.">"Bounded Rationality and Public Administration.”</a> In The Oxford Research Encyclopedia of Politics. Oxford: Oxford University Press. (with JoBeth Shafran and Bryan Jones)
 
 # Working Papers
-
-“Do Authoritarians Support Political Violence?" (with Bryan Gervais, Christopher Ellison, Gabriel Acevedo, Margaret Kelly) *Revise and Resubmit*
-<font size = "2"> While research has linked the authoritarian personality with support for political violence, there are some inherent tensions in the logic of this supposed relationship. Support for political violence has been treated by researchers as both a measure of and an outcome of authoritarian personality. Likewise, one key component of authoritarianism (submission to authority) is the antithesis of one key measure of support for political violence (violence against authority). Unsurprisingly, there are mixed results in literature regarding the link between authoritarian personality and support for political violence. Given the inherent contradictions in an authoritarian supporting violence against the government, in this research note, we predict a negative relationship between authoritarianism and support for violence against the government. Leveraging a panel of randomly selected U.S. adults with an oversample of gun owners, we find support for this hypothesis. On the other hand, we find that attitudes downstream from the securitarian personality (gun ownership and several gun attitudes) predict support for violence against the government. </font>
-
 “The Erosion of Specialization: How Institutional Evolution Undermines Congressional Oversight” *Under review*
 <font size = "2"> Congress’s decentralized committee system expands oversight capacity but creates coordination problems. I argue that the incentives behind coordination challenges evolve as the committee system responds to emerging problems. Initially, informal domain specific expertise accumulated through legislating mitigates coordination challenges by lowering oversight costs in familiar areas. As boundary-spanning issues emerge, committees' legislative jurisdictions converge, eroding expertise differentials and increasing duplicative oversight. To capture jurisdictional evolution, I introduce a novel computational approach using transformer-based embeddings of House bill summaries and cosine similarity to track both within-committee jurisdiction change and cross-committee convergence. I find that committees with larger jurisdictional shifts subsequently oversee more novel agencies, while committee pairs with greater prior convergence show higher probabilities of duplicating oversight on identical agency-subtopic combinations. These findings suggest that effective oversight design must account for how coordination mechanisms deteriorate as policy environments evolve. </font>
 

@@ -9,4 +9,4 @@ Hello! I am a Postdoctoral Fellow at the <a href="https://colfa.utsa.edu/politic
 <br>
 <br>
 
-You can view my CV [here](assets/Dye_CV_9_2_2025.pdf).
+You can view my CV [here](assets/Dye_CV_10_4_2025.pdf).
