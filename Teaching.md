@@ -7,11 +7,7 @@ title: ""
 
 #### Instructor
 
-<<<<<<< HEAD
 [Quantitative Analysis](assets/Quantitative Analysis.pdf) (Fall 2024, Spring 2025, Fall 2025, Spring 2026)
-=======
-[Quantitative Analysis](assets/Quantitative Analysis.pdf) (Fall 2024, Spring 2025, Fall 2025)
->>>>>>> d02bbc4c693de6fb1adcd25e5267bd49ef24be4b
 
 American Foreign Policy (Summer 2023, Summer 2024)
 
