@@ -22,11 +22,7 @@ author: Connor Dye
 navbar-links:
   Research: "Research"
   Teaching: "Teaching"
-<<<<<<< HEAD
   Governing Without Laws: "/book/"
-=======
-  Governing Without Laws: "Book"
->>>>>>> d02bbc4c693de6fb1adcd25e5267bd49ef24be4b
   CV: "CV"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
