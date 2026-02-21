@@ -22,6 +22,7 @@ author: Connor Dye
 navbar-links:
   Research: "Research"
   Teaching: "Teaching"
+  Governing Without Laws: "/book/"
   CV: "CV"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -52,11 +53,11 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cwdye@utexas.edu"
+  email: "connor.dye@utsa.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: cwdye
-  twitter: ConnorWDye
+#  twitter: ConnorWDye
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname

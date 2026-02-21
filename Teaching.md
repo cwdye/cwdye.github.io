@@ -7,6 +7,8 @@ title: ""
 
 #### Instructor
 
+[Quantitative Analysis](assets/Quantitative Analysis.pdf) (Fall 2024, Spring 2025, Fall 2025, Spring 2026)
+
 American Foreign Policy (Summer 2023, Summer 2024)
 
 #### Co-Instructor
