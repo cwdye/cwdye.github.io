@@ -7,7 +7,9 @@ title: ""
 
 #### Instructor
 
-[Quantitative Analysis](assets/Quantitative Analysis.pdf) (Fall 2024, Spring 2025, Fall 2025, Spring 2026)
+[Politics and the Administrative Process](assets/Politics and the Administrative Process.pdf) (Fall 2026)
+
+[Quantitative Analysis](assets/Quantitative Analysis.pdf) (Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026)
 
 American Foreign Policy (Summer 2023, Summer 2024)
 
