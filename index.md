@@ -9,4 +9,4 @@ Hello! I am an Assistant Professor in the Department of Political Science and Ge
 <br>
 <br>
 
-You can view my CV [here](assets/Dye_CV_10_11_2026).
+You can view my CV [here](assets/Dye_CV_10_11_2026.pdf).
